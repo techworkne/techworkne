@@ -23,4 +23,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ### **Как со мной связаться?**
 - **Почта**: techwork.ne@yandex.kz
+
 Я открыта к предложениям и стажировкам.
